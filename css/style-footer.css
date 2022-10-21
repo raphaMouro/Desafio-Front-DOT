@@ -1,0 +1,29 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    margin: 0;
+}
+
+.footer-wrapper{
+    background-color: #7a2b58;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-wrapper-footer{
+    background-image: url('../assets/icones/icon-logo-footer.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 397px;
+    height: 97px;
+    margin: 169px;
+}
+ 
+@media only screen and (max-width: 480px) {
+ .logo-wrapper-footer{
+        width: 240px;
+        height: 71px;
+        margin: 114px;
+    }
+}
