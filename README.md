@@ -9,17 +9,20 @@ Objetivo:
 Pontos que serão analisados:
 
 ● A página deve ficar igual ou o mais próxima possível do mockup fornecido;
+
 ● A página deve ser responsiva e ter uma boa visualização em telas com largura
 de 1920px à 360px;
+
 ● A página deve funcionar na última e penúltima versão dos principais
 navegadores;
+
 ● O código deve estar semanticamente correto, bem organizado e estruturado.
 ● A estrutura dos arquivos e pastas deve estar bem organizada.
 ● Os recursos interativos devem funcionar adequadamente. São eles:
 o Dropdown
 o Círculo com Flechas Coloridas e Botões (está explicado melhor abaixo)
 
-Funcionamento esperado do recurso Dropdown:
+_Funcionamento esperado do recurso Dropdown:_
 
 ● Ao clicar sobre o botão com a seta para baixo de um item, o box de conteúdo
 referente ao item deve ser aberto.
